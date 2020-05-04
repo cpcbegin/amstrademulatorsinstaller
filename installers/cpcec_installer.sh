@@ -8,5 +8,6 @@ unzip -x cpcec-20200430.zip
 rm cpcec-20200430.zip
 chmod +x *.elf
 cd ..
-mkdir -p /opt/linuxemus
+sudo mkdir -p /opt/linuxemus
+sudo chmod +rwx /opt/linuxemus
 mv cpcec /opt/linuxemus/

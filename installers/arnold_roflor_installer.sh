@@ -9,5 +9,6 @@ cd src
 ./configure
 make
 cd ../..
-mkdir -p /opt/linuxemus
+sudo mkdir -p /opt/linuxemus
+sudo chmod +rwx /opt/linuxemus
 mv arnold /opt/linuxemus/arnold
