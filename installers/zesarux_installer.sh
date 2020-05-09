@@ -9,3 +9,4 @@ cd src
 make
 sudo make install
 cd ../..
+../commonscripts/createshortcuts.sh zesarux

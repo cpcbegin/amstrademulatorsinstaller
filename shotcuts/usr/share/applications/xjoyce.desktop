@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=xJoyce (Amstrad PCW)
+GenericName=xJoyce (Amstrad PCW emulator)
+Comment=Amstrad PCW emulator
+Icon=xjoyce
+Exec=xjoyce
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

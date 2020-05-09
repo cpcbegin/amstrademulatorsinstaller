@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=PCem (Old PCs)
+Name[es]=PCem (antiguos PCs)
+GenericName=PCem
+Comment=Full old-PC emulator
+Comment[es]=Emula completamente PCs antiguos
+Icon=pcem
+Exec=pcem
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

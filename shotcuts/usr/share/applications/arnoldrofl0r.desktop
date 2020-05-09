@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Arnold Rofl0r (Amstrad CPC)
+GenericName=Arnold Rofl0r CPC Emulator
+GenericName[es]=Arnold Rofl0r Emulador CPC
+Comment=Amstrad CPC/CPC+ Emulator
+Comment[es]=Emulador de Amstrad CPC/CPC+
+Icon=/opt/linuxemus/arnoldrofl0r/src/win/arnold.ico
+Path=/opt/linuxemus/arnoldrofl0r/src
+Exec=/opt/linuxemus/arnoldrofl0r/src/arnold
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

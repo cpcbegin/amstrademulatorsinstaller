@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=CPCEC (Amstrad CPC)
+GenericName=CPCEC CPC Emulator
+GenericName[es]=CPCEC Emulador CPC
+Comment=Amstrad CPC/ Emulator
+Comment[es]=Emulador de Amstrad CPC
+Icon=/opt/linuxemus/cpcec/cpcec.ico
+Path=/opt/linuxemus/cpcec
+Exec=/opt/linuxemus/cpcec/cpcec.sh
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

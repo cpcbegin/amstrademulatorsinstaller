@@ -8,3 +8,5 @@ cd joyce-2.2.13/
 make
 sudo make install
 cd ..
+../commonscripts/createshortcuts.sh xjoyce
+../commonscripts/createshortcuts.sh xanne

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=xAnne (Amstrad NC)
+GenericName=xJoyce (Amstrad NC emulator)
+Comment=Amstrad NC emulator
+Icon=xanne
+Exec=xanne
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

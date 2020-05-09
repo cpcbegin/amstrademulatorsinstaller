@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ZXCEC (ZX Spectrum)
+GenericName=ZXSEC ZX Spectrum Emulator
+GenericName[es]=ZXSEC Emulador ZX Spectrum
+Comment=ZX Spectrum Emulator
+Comment[es]=Emulador de ZX Spectrum
+Icon=/opt/linuxemus/cpcec/zxsec.ico
+Path=/opt/linuxemus/cpcec
+Exec=/opt/linuxemus/cpcec/zxsec.sh
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

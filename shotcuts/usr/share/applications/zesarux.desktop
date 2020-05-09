@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Zesarux
+GenericName=Zesarux
+Comment=ZXSpectrum and more machines emulator
+Icon=zesarux
+Exec=zesarux
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

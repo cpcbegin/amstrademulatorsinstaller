@@ -10,3 +10,4 @@ rm PCemV15Linux.tar.gz
 make
 sudo make install
 cd ..
+../commonscripts/createshortcuts.sh pcem
