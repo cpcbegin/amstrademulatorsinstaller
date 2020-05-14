@@ -11,5 +11,6 @@ gcc -O2 -xc cpcec.c -DSDL_MAIN_HANDLED -lSDL2 -ocpcec.sh
 echo "** Compiling zxsec, please wait... ***"
 gcc -O2 -xc zxsec.c -DSDL_MAIN_HANDLED -lSDL2 -ozxsec.sh
 chmod +x *.sh
+cd ..
 ../commonscripts/createshortcuts.sh cpcec /opt/linuxemus
 ../commonscripts/createshortcuts.sh zxsec
