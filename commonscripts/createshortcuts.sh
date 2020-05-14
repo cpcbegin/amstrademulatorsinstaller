@@ -6,6 +6,7 @@ if [ -n "$1" ]; then
         cp -rp "$1" "$2/$1" && rm -rf "$1"
     fi
     sudo cp -f "../shotcuts/usr/share/applications/$1.desktop" /usr/share/applications/
+    sudo mkdir -p /etc/xdg/menus/applications-merged
     sudo cp -f "../shotcuts/etc/xdg/menus/applications-merged/$1.menu" /etc/xdg/menus/applications-merged/
     sudo cp -f "../shotcuts/usr/share/pixmaps/$1.png" /usr/share/pixmaps/
     if [ -f "/usr/share/desktop-directories/Emulators.directory" ]; then
