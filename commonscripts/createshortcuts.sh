@@ -2,8 +2,10 @@
 if [ -n "$1" ]; then
     if [ -n "$2" ]; then
         sudo mkdir -p "$2"
-        sudo chmod +rwx "$2"
-        cp -rp "$1" "$2/$1" && rm -rf "$1"
+        sudo chmod a+rwx "$2"
+        sudo mkdir -p "$2/$1"
+        sudo chmod a+rwx "$2/$1"
+        cp -rpfu "$1/*" "$2/$1/." && rm -rf "$1"
     fi
     sudo cp -f "../shotcuts/usr/share/applications/$1.desktop" /usr/share/applications/
     sudo mkdir -p /etc/xdg/menus/applications-merged
