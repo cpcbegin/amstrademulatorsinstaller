@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore Plus/4 (VICE)
+GenericName=
+Comment=
+Icon=xplus4
+Exec=xplus4
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

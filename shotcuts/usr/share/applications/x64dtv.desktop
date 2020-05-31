@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore 64 (VICE DTV Emu)
+GenericName=
+Comment=
+Icon=x64dtv
+Exec=x64dtv
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

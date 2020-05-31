@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore PET (VICE)
+GenericName=
+Comment=
+Icon=xpet
+Exec=xpet
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

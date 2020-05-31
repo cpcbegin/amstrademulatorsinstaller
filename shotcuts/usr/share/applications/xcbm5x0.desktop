@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore CBM 5x0 (VICE)
+GenericName=
+Comment=
+Icon=xcbm5x0
+Exec=xcbm5x0
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;

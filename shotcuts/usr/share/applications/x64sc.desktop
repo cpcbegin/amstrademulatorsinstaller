@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore 64 (VICE SC Emu)
+GenericName=
+Comment=
+Icon=x64sc
+Exec=x64sc
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;menulibre-emuladores;Emuladores;

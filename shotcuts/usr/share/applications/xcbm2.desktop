@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Commodore CBM-II (VICE)
+GenericName=
+Comment=
+Icon=xcbm2
+Exec=xcbm2
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;
