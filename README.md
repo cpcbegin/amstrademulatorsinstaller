@@ -10,8 +10,17 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [PCEM](https://pcem-emulator.co.uk).
 - [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/).
 - [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
+
 ### Commodore
 - [VICE](http://vice-emu.sourceforge.net/)
+
+### MSX
+- [OpenMSX](https://openmsx.org/)
+
+### ZX Spectrum
+- [FBZX](https://rastersoft.com/programas/fbzx.html)
+- [FUSE](http://fuse-emulator.sourceforge.net/)
+- [XSPECT](https://github.com/radekp/spectemu/blob/master/README)
 
 ## Tools
 ### Amstrad
@@ -22,7 +31,7 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 ## How to use
 Just type ./setup.sh and select the desired emulator or tool.
 
-![Emulator category in GNU/Linux](https://raw.githubusercontent.com/cpcbegin/amstrademulatorinstaller/master/resources/images/menu.png)
+![Emulator category in GNU/Linux](https://raw.githubusercontent.com/cpcbegin/amstrademulatorsinstaller/master/resources/images/menu.png)
 
 
 ## About
