@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=xspect emu
+GenericName=xspect-X11 (ZX Spectrum Emulator)
+GenericName[es]=xspect-X11 (Emulador de ZX Spectrum)
+Comment=ZX Spectrum Emulator
+Comment[es]=Emulador de ZX Spectrum
+Icon=xspect
+Exec=xspect
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;
