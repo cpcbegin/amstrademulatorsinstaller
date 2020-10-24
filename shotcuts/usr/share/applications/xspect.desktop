@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=xspect emu
+Name=xspect emu (ZX Spectrum Emulator)
+Name[es]=xspect-X11 (Emulador de ZX Spectrum)
 GenericName=xspect-X11 (ZX Spectrum Emulator)
 GenericName[es]=xspect-X11 (Emulador de ZX Spectrum)
 Comment=ZX Spectrum Emulator
