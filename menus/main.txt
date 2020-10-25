@@ -1,0 +1,3 @@
+Emulation Install emulators
+RetroProgramming Software tools for retro computers
+Exit Exit this script

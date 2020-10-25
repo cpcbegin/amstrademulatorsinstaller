@@ -29,7 +29,7 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 
 
 ## How to use
-Just type ./setup.sh and select the desired emulator or tool.
+Just type ./retroinstaller.sh and select the desired emulator or tool.
 
 ![Emulator category in GNU/Linux](https://raw.githubusercontent.com/cpcbegin/amstrademulatorsinstaller/master/resources/images/menu.png)
 
