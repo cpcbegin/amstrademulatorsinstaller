@@ -3,9 +3,9 @@
 sudo apt install -y build-essential libsdl1.2-dev gcc
 mkdir cpcec
 cd cpcec
-wget -c http://cngsoft.no-ip.org/cpcec-20200505.zip
-unzip -xu cpcec-20200505.zip
-rm cpcec-20200505.zip
+wget -c http://cngsoft.no-ip.org/cpcec-20201024.zip
+unzip -xuL cpcec-20201024.zip
+rm cpcec-20201024.zip
 echo "** Compiling cpcec, please wait... **"
 gcc -O2 -xc cpcec.c -DSDL_MAIN_HANDLED -lSDL2 -ocpcec.sh
 echo "** Compiling zxsec, please wait... ***"
