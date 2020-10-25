@@ -1,6 +1,7 @@
 #/bin/bash
 #CPCEC Emulator
 sudo apt install -y build-essential libsdl1.2-dev gcc
+cd installers
 mkdir cpcec
 cd cpcec
 wget -c http://cngsoft.no-ip.org/cpcec-20201024.zip
