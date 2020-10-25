@@ -1,3 +1,8 @@
 CPCTelera Amstrad CPC programming suite
 CPCTools Amstrad CPC programming tools
+KTurtle KDE Logo interpreter
+Pasmo Z80 cross compiler
+SDCC Small Device C Compiler
+UCBLogo Berkeley Logo freeware interpreter
+Z88 Z88DK Development Kit for Z80 Computers
 Exit Return to Main Menu

@@ -1,4 +1,4 @@
-# Retro computers emulator installer
+# Multi retro utils installer
 Script to install more common retro computers emulators and tools in GNU/Linux (Debian/Ubuntu family distros).
 
 ## Emulators included
@@ -7,9 +7,6 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [Caprice 32 (by Colin Pitrat)](https://github.com/ColinPitrat/caprice32).
 - [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm).
 - [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce).
-- [PCEM](https://pcem-emulator.co.uk).
-- [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/).
-- [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
 
 ### Commodore
 - [VICE](http://vice-emu.sourceforge.net/)
@@ -22,10 +19,29 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [FUSE](http://fuse-emulator.sourceforge.net/)
 - [XSPECT](https://github.com/radekp/spectemu/blob/master/README)
 
-## Tools
+### Serveral systems
+- [PCEM](https://pcem-emulator.co.uk).
+- [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/).
+- [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
+
+
+## Tools for retro programming
 ### Amstrad
 - [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera).
 - [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools).
+
+### ZX Spectrum and Z80 in general
+- [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/)
+- [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/)
+- [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk)
+
+### Retro Languages
+- [KTurtle Logo](https://edu.kde.org/kturtle/)
+- [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html)
+
+
+## TENTE 3D
+- ¡COMMING SOON!
 
 
 ## How to use

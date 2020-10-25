@@ -21,12 +21,15 @@ function is_missing_dialog_pkg() {
 is_missing_dialog_pkg
 while true; do
     seleccion=$(./commonscripts/menugen.sh $1  | tr '[:upper:]' '[:lower:]')
-    if [ $seleccion == "exit" ]; then
+    if [ $seleccion == "exit" ] || [ -z "$seleccion" ]; then
         break
     fi
     if  [ -f "./menus/${seleccion}.txt" ]; then
         ./retroinstaller.sh $seleccion
     else
-        ./installers/${seleccion}_installer.sh
+        mkdir opt
+        cd opt
+        ../installers/${seleccion}_installer.sh
+        cd ..
     fi
 done
