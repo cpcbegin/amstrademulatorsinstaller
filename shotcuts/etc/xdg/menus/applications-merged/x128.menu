@@ -3,7 +3,7 @@
 <Menu>
     <Name>Applications</Name>
     <Menu>
-        <Name>Emulators</Name>
+        <Name>emulators</Name>
         <Directory>Emulators.directory</Directory>
         <Include>
             <Filename>x128.desktop</Filename>

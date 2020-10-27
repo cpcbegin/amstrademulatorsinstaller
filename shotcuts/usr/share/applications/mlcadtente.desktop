@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/ldraw/software/linuxscripts/mlcadtente.sh
+Comment[es_ES]=Editor de tente virtual
+Name=MLCAD Tente
+Comment=TENTE 3D editor
+Comment[es]=Editor de TENTE virtual
+Icon=mlcadtente

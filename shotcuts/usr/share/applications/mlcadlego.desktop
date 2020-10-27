@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/ldraw/software/linuxscripts/mlcadlego.sh
+Comment[es_ES]=Editor de Lego virtual
+Name=MLCAD Lego
+Comment=LEGO 3D editor
+Comment[es]=Editor de LEGO virtual
+Icon=mlcadlego

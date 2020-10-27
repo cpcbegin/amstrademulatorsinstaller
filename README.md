@@ -41,7 +41,14 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 
 
 ## TENTE 3D
-- ¡COMMING SOON!
+- [MLCad](http://mlcad.lm-software.com/)
+- [LDView](http://ldview.sourceforge.net/)
+- [Blender](http://www.blender.org) + [Ldraw import addon](https://github.com/TobyLobster/ImportLDraw/releases)
+- [BMP2LDraw](https://www.dropbox.com/s/a82giwfiof15ld5/bmp2ldraw.zip?dl=1)
+- [LDDesignPad](https://sourceforge.net/projects/lddp)
+- [LD4Studio](http://www.ld4dstudio.nl)
+- [LDCad](http://www.melkert.net/LDCad)
+Incluye soporte para [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org).
 
 
 ## How to use

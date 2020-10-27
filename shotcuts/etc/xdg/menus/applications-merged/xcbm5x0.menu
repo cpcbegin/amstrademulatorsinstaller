@@ -4,7 +4,7 @@
     <Name>Applications</Name>
     <Menu>
         <Name>Emulators</Name>
-        <Directory>Emulators.directory</Directory>
+        <Directory>emulators.directory</Directory>
         <Include>
             <Filename>xcbm5x0.desktop</Filename>
         </Include>
