@@ -3,6 +3,7 @@ CPCTools Amstrad CPC programming tools
 KTurtle KDE Logo interpreter
 Pasmo Z80 cross compiler
 SDCC Small Device C Compiler
+QB64 Basic compiler compatible with QB4.5/QBasic
 UCBLogo Berkeley Logo freeware interpreter
 Z88 Z88DK Development Kit for Z80 Computers
 Exit Return to Main Menu

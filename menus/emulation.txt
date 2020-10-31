@@ -3,4 +3,5 @@ Commodore Commodore computer emulators
 MSX MSX computers emulators
 ZXSpectrum ZX Spectrum emulators
 Multisystem Serveral systems emulators
+OS Just operating systems emulators
 Exit Return to Main Menu

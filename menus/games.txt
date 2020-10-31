@@ -1,0 +1,11 @@
+AbuSimbel Abu Simbel Profanation DeLuxe Remake
+Antimicro Virtual gamepad mapped to keyboard
+Minetest Minetest with Mineclone
+OpenTyrian Native Tyrian Engine
+ROTT Rise of the Triad Engine
+RockNDiamonds Boulder Dash clone
+LPairs Pairs game (with TENTE cards)
+RVGL Remote control cars game
+UWOL Amazing platform game
+ZeldaSolarus The Legend of Zelda(Solarus)
+Exit Exit this script

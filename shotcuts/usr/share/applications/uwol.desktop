@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/linuxgames/uwol/bin/uwol
+Path=/opt/linuxgames/uwol/bin
+Name=UWOL
+Icon=uwol
+Categories=Game;

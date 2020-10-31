@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/linuxgames/profanation/profanation
+Path=/opt/linuxgames/profanation
+Name=Abu Simbel Profanation DeLuxe
+Icon=profanation
+Categories=Game;

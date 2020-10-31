@@ -25,19 +25,29 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
 
 
-## Tools for retro programming
-### Amstrad
-- [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera).
-- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools).
+### Just OS emulators
+- [Dosbox](https://www.dosbox.com/)
+- [WINE](https://www.winehq.org/)
+- [ANSI CP/M](https://github.com/z88dk/cpm)
+- [IZ CP/M](https://github.com/ivanizag/iz-cpm)
 
-### ZX Spectrum and Z80 in general
-- [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/)
-- [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/)
-- [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk)
 
-### Retro Languages
-- [KTurtle Logo](https://edu.kde.org/kturtle/)
-- [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html)
+## Games
+### Full natives
+- [Antimicro](https://github.com/AntiMicro/antimicro)
+- [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/)
+- [LPairs 2](http://lgames.sourceforge.net/LPairs/)
+- [Maldita Castilla](https://www.locomalito.com/es/maldita_castilla.php)
+- [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included.
+- [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/)
+- [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/)
+
+
+# Engines with shareware/freeware/gnu data
+- [OpenTyrian](https://github.com/opentyrian/opentyrian)
+- [Rise of the Triad](https://icculus.org/rott)
+- [RVGL Re-Volt](https://rvgl.re-volt.io/)
+- [The Legend of Zelda: Mystery of Solarus DX](https://www.solarus-games.org/en/games/the-legend-of-zelda-mystery-of-solarus-dx)
 
 
 ## TENTE 3D
@@ -49,6 +59,22 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [LD4Studio](http://www.ld4dstudio.nl)
 - [LDCad](http://www.melkert.net/LDCad)
 Incluye soporte para [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org).
+
+
+## Tools for retro programming
+### Amstrad
+- [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera).
+- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools).
+
+### ZX Spectrum and Z80 in general
+- [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/)
+- [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/)
+- [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk)
+
+### Retro Languages
+- [QB64](http://www.qb64.net/)
+- [KTurtle Logo](https://edu.kde.org/kturtle/)
+- [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html)
 
 
 ## How to use
