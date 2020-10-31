@@ -15,7 +15,7 @@ echo ">>> Installing wine"
 sudo apt install -y wine
 sudo apt install -y wine-stable
 echo ">>> Installing git and uncompress software"
-sudo apt install -y git unrar unzip
+sudo apt install -y git unrar unzip wget
 
 echo ">>> Creating all folders we need"
 for f in $LDRAWHOME $LDRAWHOME/tente $LDRAWTMP $APPSMERGED $DESKTOPDIR; do
