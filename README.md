@@ -37,10 +37,11 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [Antimicro](https://github.com/AntiMicro/antimicro)
 - [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/)
 - [LPairs 2](http://lgames.sourceforge.net/LPairs/)
-- [Maldita Castilla](https://www.locomalito.com/es/maldita_castilla.php)
 - [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included.
 - [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/)
+- [Step Mania](https://www.stepmania.com/)
 - [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/)
+- [Vorton, a Highway Encounter remake](https://github.com/zerojay/vorton)
 
 
 # Engines with shareware/freeware/gnu data
@@ -59,6 +60,11 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [LD4Studio](http://www.ld4dstudio.nl)
 - [LDCad](http://www.melkert.net/LDCad)
 Incluye soporte para [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org).
+
+
+##Educactional software
+###Celestia
+- [Celestia](https://celestia.es/)
 
 
 ## Tools for retro programming

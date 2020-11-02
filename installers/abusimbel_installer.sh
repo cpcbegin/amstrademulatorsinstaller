@@ -6,3 +6,4 @@ unzip -xu profanation.zip
 mv ProfaDeluxe-Linux profanation
 chmod +x ./profanation/profanation
 ../commonscripts/createshortcuts.sh profanation
+rm -f profanation.zip

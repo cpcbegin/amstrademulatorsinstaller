@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=python3 /opt/linuxgames/pydance/pydance.py
+Path=/opt/linuxgames/pydance
+Name=pydance
+Icon=pydance
+Categories=Game;

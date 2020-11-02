@@ -28,6 +28,8 @@ while true; do
         ./retroinstaller.sh $seleccion
     else
         mkdir opt
+        clear
+        echo ">>> Installing ${seleccion}..."
         cd opt
         ../installers/${seleccion}_installer.sh
         cd ..
