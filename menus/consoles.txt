@@ -1,0 +1,9 @@
+DeSmuME Nintendo DS emulator
+Higan Multisystem emulator
+MAME Multi Arcade Machine emulator
+Mednafen Multisystem emulator
+Osmose SEGA Master System emulator
+PCSXR Playstation emulator
+PCSX2 Playstation 2 emulator
+Stella Atari 2600 emulator
+Exit Return to Main Menu

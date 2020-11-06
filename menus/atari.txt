@@ -1,0 +1,2 @@
+Hatari Atari ST emulator
+Exit Return to Main Menu

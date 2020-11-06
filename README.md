@@ -1,5 +1,8 @@
 # Multi retro utils installer
 Script to install more common retro computers emulators and tools in GNU/Linux (Debian/Ubuntu family distros).
+There will be a full operative shortcut in menu for each graphic software you install.
+
+ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR OTHER SOFTWARE.
 
 ## Emulators included
 ### Amstrad
@@ -8,7 +11,14 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm).
 - [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce).
 
+### Atari ST
+- [Hatari](https://hatari.tuxfamily.org/)
+
+### Apple
+- [BasiliskII](https://basilisk.cebix.net/)
+
 ### Commodore
+- [FS UAE](https://fs-uae.net)
 - [VICE](http://vice-emu.sourceforge.net/)
 
 ### MSX
@@ -19,7 +29,22 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 - [FUSE](http://fuse-emulator.sourceforge.net/)
 - [XSPECT](https://github.com/radekp/spectemu/blob/master/README)
 
+
+### Arcade
+- [MAME](https://mame.net)
+
+
+### Consoles
+- [DesmuME](http://desmume.org/)
+- [Osmose](https://segaretro.org/Osmose)
+- [PCSXR](https://github.com/iCatButler/pcsxr)
+- [PCSX2](https://pcsx2.net/)
+- [Stella](https://stella-emu.github.io/)
+
+
 ### Serveral systems
+- [Higan](https://byuu.org/higan/)
+- [Mednafen](https://mednafen.github.io/)
 - [PCEM](https://pcem-emulator.co.uk).
 - [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/).
 - [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
@@ -62,8 +87,8 @@ Script to install more common retro computers emulators and tools in GNU/Linux (
 Incluye soporte para [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org).
 
 
-##Educactional software
-###Celestia
+## Educactional software
+### Celestia
 - [Celestia](https://celestia.es/)
 
 
@@ -79,6 +104,7 @@ Incluye soporte para [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawT
 
 ### Retro Languages
 - [QB64](http://www.qb64.net/)
+- [ZX Basic](https://zxbasic.readthedocs.io)
 - [KTurtle Logo](https://edu.kde.org/kturtle/)
 - [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html)
 

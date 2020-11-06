@@ -1,2 +1,3 @@
-VICE Commodore computers emulator
+FSUAE Commodore Amiga
+VICE Commodore computers (not Amiga)
 Exit Return to Emulators Menu

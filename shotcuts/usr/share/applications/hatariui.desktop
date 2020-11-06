@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hatari UI
+Exec=hatariui
+Icon=hatari
+Comment=Atari ST(e)/Falcon emulator
+Categories=Application;X-Debian-Applications-Emulators;
+Keywords=Emulator;Atari;Atari ST;Atari Falcon;

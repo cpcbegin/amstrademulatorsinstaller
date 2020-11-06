@@ -1,7 +1,10 @@
-Amstrad Amstrad CPC/PCW emulators
-Commodore Commodore computer emulators
-MSX MSX computers emulators
-ZXSpectrum ZX Spectrum emulators
-Multisystem Serveral systems emulators
-OS Just operating systems emulators
+Amstrad Amstrad CPC/PCW
+Apple Apple computers
+Atari Atari computers & consoles
+Commodore Commodore computers
+MSX MSX computers
+ZXSpectrum ZX Spectrum
+Consoles Consoles & Arcades
+Multisystem Several systems
+OS Just operating systems
 Exit Return to Main Menu
