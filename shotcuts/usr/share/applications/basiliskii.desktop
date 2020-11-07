@@ -4,5 +4,4 @@ Type=Application
 Terminal=false
 Exec=BasiliskII --rom "/usr/local/share/BasiliskII/ShapeShifter ROM" --disk "/usr/local/share/BasiliskII/MacOS7.5.3_HD.dsk"
 Name=BasiliskII Mac Emulator
-Icon=basilliskii
-Categories=Game;
+Icon=basiliskii

@@ -6,4 +6,3 @@ cd macemu/BasiliskII/src/Unix
 make
 sudo make install
 ../commonscripts/createshortcuts.sh basiliskii
-#BasiliskII --rom "/usr/local/share/BasiliskII/ShapeShifter ROM" --disk "/usr/local/share/BasiliskII/MacOS7.5.3_HD.dsk"

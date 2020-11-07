@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=linapple
+Comment=Apple II emulator
+Comment[es]=Emulador de Apple II
+Type=Application
+Terminal=false
+Exec=linapple
+Icon=linapple
