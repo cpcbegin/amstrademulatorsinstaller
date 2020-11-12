@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=BBC Basic
+Comment=BBC Basic interpreter
+Comment[es]=Intérprete BBC Basic
+Icon=bbcbasic
+Path=/opt/linuxemus/bbcbasic/bin/linux
+Exec=/opt/linuxemus/bbcbasic/bin/linux/bbcsdl
+Terminal=false

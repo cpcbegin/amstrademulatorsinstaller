@@ -31,6 +31,7 @@ ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR OTHER SOFTWARE.
 
 
 ### Arcade
+- [Cannonball](https://github.com/djyt/cannonball)
 - [MAME](https://mame.net)
 
 
@@ -40,9 +41,10 @@ ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR OTHER SOFTWARE.
 - [PCSXR](https://github.com/iCatButler/pcsxr)
 - [PCSX2](https://pcsx2.net/)
 - [Stella](https://stella-emu.github.io/)
+- [ZSNES](http://www.zsnes.com/)
 
 
-### Serveral systems
+### Several systems
 - [Higan](https://byuu.org/higan/)
 - [Mednafen](https://mednafen.github.io/)
 - [PCEM](https://pcem-emulator.co.uk).

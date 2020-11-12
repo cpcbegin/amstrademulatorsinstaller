@@ -3,6 +3,7 @@ CPCTools Amstrad CPC programming tools
 KTurtle KDE Logo interpreter
 Pasmo Z80 cross compiler
 SDCC Small Device C Compiler
+BBCBasic BBC Basic Interpreter
 QB64 Basic compiler compatible with QB4.5/QBasic
 UCBLogo Berkeley Logo freeware interpreter
 ZXBasic ZX Spectrum Basic compiler
