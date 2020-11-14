@@ -100,6 +100,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [LDDesignPad](https://sourceforge.net/projects/lddp) ![Runs with wine](./resources/images/icons/wine.png)
 - [LD4Studio](http://www.ld4dstudio.nl) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [LDCad](http://www.melkert.net/LDCad) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [LeoCad](https://github.com/leozide/leocad) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 [TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org) supported.
 

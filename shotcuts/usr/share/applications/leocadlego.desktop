@@ -1,14 +1,10 @@
 [Desktop Entry]
+Encoding=UTF-8
 Version=1.0
-Name=LeoCAD Lego
-Comment=Create virtual LEGO models
-Comment[es]=Crea modelos virtuales LEGO
-Exec=leocad -l /opt/ldraw/lego/ %f
-Terminal=false
 Type=Application
-Icon=/opt/ldraw/software/iconos/linux/leocadlego.png
-MimeType=application/vnd.leocad;application/x-ldraw;application/x-multi-part-ldraw;application/x-ldlite;
-Categories=Graphics;3DGraphics;Education;
-Keywords=CAD;LEGO;LDraw;
-
-Name[es_ES]=leocadlego
+Terminal=false
+Exec=leocad -l /opt/ldraw/lego/
+Name=LeoCAD Lego
+Comment=Lego 3D editor
+Comment[es]=Editor Lego 3D
+Icon=leocadlego
