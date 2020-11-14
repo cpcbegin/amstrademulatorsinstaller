@@ -3,5 +3,4 @@ Games Native games
 RetroProgramming Software tools for retro computers
 Tente3D Software for Tente 3D
 Education Educational Software
-Misc Miscelaneous
 Exit Exit this script

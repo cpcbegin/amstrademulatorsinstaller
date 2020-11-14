@@ -1,2 +1,0 @@
-epdx4400 Drivers Epson Stylus DX4400
-Exit Exit this script
