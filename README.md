@@ -2,12 +2,10 @@
 Script to install more common retro computers emulators and tools in GNU/Linux (Debian/Ubuntu family distros).
 There will be a full operative shortcut in menu for each graphic software you install.
 
+> ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR ANY QUESTIONABLE SOFTWARE.
+
 ![Emulator category in GNU/Linux](./resources/images/menu.png)
 You can see the menus on English or Spanish depending of your locale configuration.
-
-
-
-> ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR ANY QUESTIONABLE SOFTWARE.
 
 
 
@@ -16,6 +14,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [Arnold (by Rofl0r)](https://github.com/rofl0r/arnold). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Caprice 32 (by Colin Pitrat)](https://github.com/ColinPitrat/caprice32). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Java CPC emulator](http://cpc-live.com/data/). ![Pure java](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 
@@ -76,9 +75,10 @@ You can see the menus on English or Spanish depending of your locale configurati
 ## Games
 ### Full natives
 - [Antimicro](https://github.com/AntiMicro/antimicro) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/)
+- [Abbey of crime extensum](http://www.abadiadelcrimenextensum.com/) ![Java binary](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/) ![Pure binary](./resources/images/icons/binary.png)
 - [LPairs 2](http://lgames.sourceforge.net/LPairs/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included.
+- [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Step Mania](https://www.stepmania.com/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -134,6 +134,8 @@ You can see the menus on English or Spanish depending of your locale configurati
 ![From package](./resources/images/icons/package.png) Deb package.
 
 ![Pure binary](./resources/images/icons/binary.png) Pure binary with no source code.
+
+![Pure java binary](./resources/images/icons/java.png) Pure java binary with no source code.
 
 ![Run with wine](./resources/images/icons/wine.png) Windows software compatible with GNU/Linux using wine.
 

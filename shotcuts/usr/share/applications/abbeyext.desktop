@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Abbey of Crime Extensum
+Comment=La abadía del crimen remake
+Icon=abbeyext
+Exec=java -jar /opt/javagames/abbeyext/TheAbbeyOfCrimeExtensum.jar
+Path=/opt/javagames/abbeyext
+Terminal=false
+Categories=Game;
