@@ -1,6 +1,6 @@
 Emulation Install emulators
 Games Native games
-RetroProgramming Software tools for retro computers
+RetroTools Tools for retro computers
 Tente3D Software for Tente 3D
 Education Educational Software
 Exit Exit this script

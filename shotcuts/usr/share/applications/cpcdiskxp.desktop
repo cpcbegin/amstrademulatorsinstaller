@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=wine /opt/winemus/cpcdiskxp/cpcdiskxp.exe
+Path=/opt/winemus/cpcdiskxp
+Name=CPCDiskXP
+Comment=Amstrad CPC image converter
+Comment[es]=Conversor de imagenes para Amstrad CPC
+Icon=cpcdiskxp

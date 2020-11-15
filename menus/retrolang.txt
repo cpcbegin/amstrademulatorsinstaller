@@ -1,0 +1,6 @@
+BBCBasic BBC Basic Interpreter
+QB64 Basic compiler compatible with QB4.5/QBasic
+UCBLogo Berkeley Logo freeware interpreter
+KTurtle KDE Logo interpreter
+ZXBasic ZX Spectrum Basic compiler
+Exit Return to Main Menu

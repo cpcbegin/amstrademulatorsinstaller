@@ -16,7 +16,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Java CPC emulator](http://cpc-live.com/data/). ![Pure java](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-
+- [WinAPE](http://www.winape.net/) ![Runs with wine](./resources/images/icons/wine.png)
 
 ### Atari ST
 - [Hatari](https://hatari.tuxfamily.org/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -112,17 +112,21 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 
 
-## Tools for retro programming
-### Amstrad
+## Tools for retro
+### Programming
 - [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-
-### ZX Spectrum and Z80 in general
 - [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
+### tools
+- [ConvImgCPC](https://cpcrulez.fr/emulateurs_UTIL-GRA-convimgcpc.htm) ![Runs with wine](./resources/images/icons/wine.png)
+- [CPCDiskXP](http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm) ![Runs with wine](./resources/images/icons/wine.png)
+- [ZX Editor](https://zx-editor.software.informer.com) ![Runs with wine](./resources/images/icons/wine.png)
+
 ### Retro Languages
+- [BBC Basic](https://github.com/rtrussell/BBCSDL). ![From source](./resources/images/icons/source.png)
 - [QB64](http://www.qb64.net/). ![From source](./resources/images/icons/source.png)
 - [ZX Basic](https://zxbasic.readthedocs.io) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [KTurtle Logo](https://edu.kde.org/kturtle/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
