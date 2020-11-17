@@ -22,6 +22,7 @@ is_missing_dialog_pkg
 while true; do
     seleccion=$(./commonscripts/menugen.sh $1  | tr '[:upper:]' '[:lower:]')
     if [ $seleccion == "exit" ] || [ -z "$seleccion" ]; then
+        clear
         break
     fi
     if  [ -f "./menus/${seleccion}.txt" ]; then
@@ -32,6 +33,7 @@ while true; do
         echo ">>> Installing ${seleccion}..."
         cd opt
         ../installers/${seleccion}_installer.sh
+        ../commonscripts/warninggen.sh ${seleccion}
         cd ..
     fi
 done

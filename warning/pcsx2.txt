@@ -1,0 +1,4 @@
+pcsx2: Playstation II emulator
+=============================
+
+You will need PlayStation II BIOS files to run this emulator.

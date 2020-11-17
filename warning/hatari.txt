@@ -1,0 +1,4 @@
+hatari: Atari ST emulator
+=========================
+
+You will need TOS boot image to run this emulator.

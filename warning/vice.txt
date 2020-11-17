@@ -1,0 +1,4 @@
+VICE: Some commodore computers emulator
+=======================================
+
+You will need all Commodore bios files to run VICE.

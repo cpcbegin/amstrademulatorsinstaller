@@ -1,0 +1,4 @@
+FS-UAE: Amiga emulator
+======================
+
+You will need Kickstart ROM and boot files to run this emulator.

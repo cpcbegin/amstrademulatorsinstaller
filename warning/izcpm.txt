@@ -1,0 +1,2 @@
+Now you have a new commands:
+iz-cpm ------> the CP/M emulator

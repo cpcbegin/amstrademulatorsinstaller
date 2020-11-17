@@ -1,0 +1,4 @@
+LinApple: Apple II emulator
+===========================
+
+You will need boot disk images to run this emulator.

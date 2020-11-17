@@ -1,0 +1,6 @@
+New command: tap2wav
+====================
+
+tap2wav source.tap > destination.wav
+
+Note: tap files are Commodore tapes images.

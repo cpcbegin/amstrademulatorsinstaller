@@ -1,0 +1,5 @@
+pcsxr: Playstation emulator
+===========================
+
+You will need BIOS files to run this emulator:
+- SCPH1001.BIN

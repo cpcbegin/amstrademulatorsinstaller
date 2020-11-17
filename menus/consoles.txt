@@ -1,4 +1,3 @@
-Cannonball Out Run Arcade emulator
 DeSmuME Nintendo DS emulator
 Higan Multisystem emulator
 MAME Multi Arcade Machine emulator
