@@ -1,0 +1,5 @@
+New commands for manage cas MSX tape images
+===========================================
+- cas2wav
+- wav2cas
+- casdir

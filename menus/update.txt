@@ -1,0 +1,3 @@
+updateos Update system
+updateown Update this script
+Exit Exit this script

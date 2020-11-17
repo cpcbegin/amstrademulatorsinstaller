@@ -1,4 +1,5 @@
 FBZX FBZX emulator
 FUSE FUSE emulator
 SpectEmu SpectEmu Emulator
+ZXPoly Rare ZX Spectrum Emulator
 Exit Return to Emulators Menu

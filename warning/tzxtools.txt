@@ -1,0 +1,12 @@
+TZX Tools
+=========
+
+New commands:
+  - tzxcat 
+  - tzxcleanup
+  - tzxcut
+  - tzxls 
+  - tzxmerge
+  - tzxsplit
+  - tzxtap
+  - tzxwav

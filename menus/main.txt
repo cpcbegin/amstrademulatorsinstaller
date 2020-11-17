@@ -3,4 +3,6 @@ Games Native games
 RetroTools Tools for retro computers
 Tente3D Software for Tente 3D
 Education Educational Software
+Misc Miscellaneous Software
+Update Update and Configuration
 Exit Exit this script

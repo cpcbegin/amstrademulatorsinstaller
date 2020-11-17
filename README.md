@@ -129,6 +129,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [BBC Basic](https://github.com/rtrussell/BBCSDL). ![From source](./resources/images/icons/source.png)
 - [QB64](http://www.qb64.net/). ![From source](./resources/images/icons/source.png)
 - [ZX Basic](https://zxbasic.readthedocs.io) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [P65Pas](https://github.com/t-edson/P65Pas) ![Pure binary](./resources/images/icons/binary.png) ![From source](./resources/images/icons/source.png)
 - [KTurtle Logo](https://edu.kde.org/kturtle/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
@@ -143,7 +144,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 ![Run with wine](./resources/images/icons/wine.png) Windows software compatible with GNU/Linux using wine.
 
-![Raspbian compatible](./resources/images/icons/raspbian.png) May be run in a raspberry pi.
+![Raspbian compatible](./resources/images/icons/raspbian.png) Raspberry pi compatible.
 
 
 

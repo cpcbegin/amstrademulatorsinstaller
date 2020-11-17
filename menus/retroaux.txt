@@ -1,3 +1,8 @@
 CPCDiskXP Amstrad CPC DSK Editor
 ConvImgCPC PC image converter to CPC
+CPCTools Amstrad CPC programming tools
+Nocart Create CPC+ image cartridge
+TZXTools ZX Spectrum tap manager
+CASTools MSX cas tape image manager
+tap2wav Commodore tap to wav converter
 Exit Return to Main Menu
