@@ -48,12 +48,12 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 
 ### Consoles
-- [DesmuME](http://desmume.org/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [DesmuME](http://desmume.org/): Nintendo DS. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Osmose](https://segaretro.org/Osmose) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [PCSXR](https://github.com/iCatButler/pcsxr) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [PCSX2](https://pcsx2.net/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [Stella](https://stella-emu.github.io/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [ZSNES](http://www.zsnes.com/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [PCSXR](https://github.com/iCatButler/pcsxr): Playstation ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [PCSX2](https://pcsx2.net/): Playstation II ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Stella](https://stella-emu.github.io/): Atari 2600 ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [ZSNES](http://www.zsnes.com/): SNES ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 
 ### Several systems
@@ -115,7 +115,6 @@ You can see the menus on English or Spanish depending of your locale configurati
 ## Tools for retro
 ### Programming
 - [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -123,7 +122,14 @@ You can see the menus on English or Spanish depending of your locale configurati
 ### tools
 - [ConvImgCPC](https://cpcrulez.fr/emulateurs_UTIL-GRA-convimgcpc.htm) ![Runs with wine](./resources/images/icons/wine.png)
 - [CPCDiskXP](http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm) ![Runs with wine](./resources/images/icons/wine.png)
-- [ZX Editor](https://zx-editor.software.informer.com) ![Runs with wine](./resources/images/icons/wine.png)
+- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CPCXFS](http://cpctech.cpc-live.com/download.html). Gestor de imagenes DSK de discos de Amstrad CPC. ![From source](./resources/images/icons/source.png)
+- [NOCart](http://www.cpcwiki.eu/index.php/Nocart): Convert Amstrad DSK images to CPR cartridge images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [c64tapedecode](https://github.com/lunderhage/c64tapedecode) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CasTools](https://github.com/lunderhage/c64tapedecode). MSX cas tape images converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [TZX Tools](https://github.com/shred/tzxtools). Gestor de imagenes de cintas de ZX Spectrum (TZX) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Ubercassette](http://www.retroreview.com/iang/UberCassette/). Several 8 bit systems tape converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [tap2wav mtfuji](https://github.com/mtfuji/tap2wav). Manage Sharp X1G tape images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 ### Retro Languages
 - [BBC Basic](https://github.com/rtrussell/BBCSDL). ![From source](./resources/images/icons/source.png)
