@@ -79,8 +79,10 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/) ![Pure binary](./resources/images/icons/binary.png)
 - [LPairs 2](http://lgames.sourceforge.net/LPairs/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [pcManiacs](http://www.sromero.org/wiki/spectrum/proyectos/pcmaziacs) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Step Mania](https://www.stepmania.com/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Temptations](https://github.com/pipagerardo/temptations) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Vorton, a Highway Encounter remake](https://github.com/zerojay/vorton) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
@@ -115,6 +117,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 ## Tools for retro
 ### Programming
 - [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -127,6 +130,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [NOCart](http://www.cpcwiki.eu/index.php/Nocart): Convert Amstrad DSK images to CPR cartridge images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [c64tapedecode](https://github.com/lunderhage/c64tapedecode) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [CasTools](https://github.com/lunderhage/c64tapedecode). MSX cas tape images converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Martine](https://github.com/jeromelesaux/martine) ![Pure binary](./resources/images/icons/binary.png) ![Source avalaible](./resources/images/icons/source.png)
 - [TZX Tools](https://github.com/shred/tzxtools). Gestor de imagenes de cintas de ZX Spectrum (TZX) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Ubercassette](http://www.retroreview.com/iang/UberCassette/). Several 8 bit systems tape converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [tap2wav mtfuji](https://github.com/mtfuji/tap2wav). Manage Sharp X1G tape images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
