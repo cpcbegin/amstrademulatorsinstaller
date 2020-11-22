@@ -37,7 +37,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 
 ### ZX Spectrum
-- [FBZX](https://rastersoft.com/programas/fbzx.html) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [FBZX](https://rastersoft.com/programas/fbzx.html) ![From package](./resources/images/icons/package.png)
 - [FUSE](http://fuse-emulator.sourceforge.net/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [XSPECT](https://github.com/radekp/spectemu/blob/master/README) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 

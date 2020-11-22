@@ -10,7 +10,7 @@ StepMania Dance pads game
 Temptations Remake PC from MSX version
 OpenTyrian Native Tyrian Engine
 ROTT Rise of the Triad Engine
-RockNDiamonds Boulder Dash clone
+RocksNDiamonds Boulder Dash clone
 LPairs Pairs game (with TENTE cards)
 pcMaziacs Remake PC from ZX Spectrum version
 Exit Exit this script
