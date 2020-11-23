@@ -7,6 +7,5 @@ GenericName=Playstation 2 Emulator
 Comment=Sony Playstation 2 emulator
 Exec=env __GL_THREADED_OPTIMIZATIONS=1 PCSX2
 Icon=PCSX2
-Keywords=game;emulator;
-Categories=Game;Emulator;
-Name[es_ES]=pcsx2
+Keywords=emulator;
+Categories=Emulator;

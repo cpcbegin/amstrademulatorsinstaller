@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/linuxgames/rocksndiamonds/rocksndiamonds
+Path=/opt/linuxgames/rocksndiamonds
+Name=RVGL Re-Volt
+Icon=rocksndiamonds
+Categories=Game;

@@ -6,7 +6,7 @@
         <Name>Emulators</Name>
         <Directory>emulators.directory</Directory>
         <Include>
-            <Filename>pcsx2.desktop</Filename>
+            <Filename>desmume-glade.desktop</Filename>
         </Include>
     </Menu>
 </Menu>

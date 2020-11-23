@@ -6,5 +6,5 @@ Keywords=emulator;console;games;rom;sega;master system;game gear;
 Terminal=false
 Type=Application
 Icon=osmose-emulator
-Categories=Game;Emulator;
+Categories=Emulator;
 Name[es_ES]=Osmose

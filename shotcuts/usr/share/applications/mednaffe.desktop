@@ -6,4 +6,4 @@ Comment=A front-end (GUI) for mednafen emulator
 Exec=mednaffe
 Terminal=false
 Icon=mednaffe
-Categories=GTK;Game;Emulator;
+Categories=GTK;Emulator;

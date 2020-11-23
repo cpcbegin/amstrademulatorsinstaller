@@ -43,7 +43,6 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 
 ### Arcade
-- [Cannonball](https://github.com/djyt/cannonball) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [MAME](https://mame.net) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 
@@ -52,8 +51,8 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [Osmose](https://segaretro.org/Osmose) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [PCSXR](https://github.com/iCatButler/pcsxr): Playstation ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [PCSX2](https://pcsx2.net/): Playstation II ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [Stella](https://stella-emu.github.io/): Atari 2600 ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [ZSNES](http://www.zsnes.com/): SNES ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Stella](https://stella-emu.github.io/): Atari 2600 ![From package](./resources/images/icons/package.png)
+- [ZSNES](http://www.zsnes.com/): SNES ![From package](./resources/images/icons/package.png)
 
 
 ### Several systems
@@ -80,7 +79,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [LPairs 2](http://lgames.sourceforge.net/LPairs/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [pcManiacs](http://www.sromero.org/wiki/spectrum/proyectos/pcmaziacs) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-- [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Step Mania](https://www.stepmania.com/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Temptations](https://github.com/pipagerardo/temptations) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
