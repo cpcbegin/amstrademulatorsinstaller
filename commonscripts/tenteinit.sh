@@ -11,11 +11,9 @@ sudo mkdir -p $LDRAWHOME
 sudo chown $FIRSTSUDOUSER $LDRAWHOME
 mkdir -p $LDRAWTMP
 echo $LDRAWTMP
-echo ">>> Installing wine"
-sudo apt install -y wine
-sudo apt install -y wine-stable
-echo ">>> Installing git and uncompress software"
-sudo apt install -y git unrar unzip wget
+../installers/wine_installer.sh
+../installers/compress_installer.sh
+sudo apt install -y git wget
 
 echo ">>> Creating all folders we need"
 for f in $LDRAWHOME $LDRAWHOME/tente $LDRAWTMP $APPSMERGED $DESKTOPDIR; do
@@ -34,19 +32,20 @@ if [ ! -d "$LDRAWHOME/models" ]; then
     git clone https://github.com/cpcbegin/tentemodels $LDRAWHOME/models
 fi
 #TENTE
-if [ ! -d "$LDRAWHOME/tente/parts" ]; then
-    echo ">>> Installing TENTE 3D pieces"
-    wget -c https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0 -O $LDRAWTMP/LDrawTente_Ultima.zip
-    unzip -u $LDRAWTMP/LDrawTente_Ultima.zip -d $LDRAWHOME/tente
-    rm $LDRAWTMP/LDrawTente_Ultima.zip
-    echo "Renombramos LDCONFIG.LDR por LDConfig.ldr (compatibilidad con software nativo GNU/Linux)"
-    mv $LDRAWHOME/tente/LDCONFIG.LDR $LDRAWHOME/tente/LDConfig.ldr
-fi
+#if [ ! -d "$LDRAWHOME/tente/parts" ]; then
+#    echo ">>> Installing TENTE 3D pieces"
+#    wget -c https://www.dropbox.com/s/9ylx1tparps72ta/LDrawTente_Ultima.zip?dl=1 -O $LDRAWTMP/LDrawTente_Ultima.zip
+#    unzip -xu $LDRAWTMP/LDrawTente_Ultima.zip -d $LDRAWHOME/tente
+#    rm $LDRAWTMP/LDrawTente_Ultima.zip
+#    echo "Renombramos LDCONFIG.LDR por LDConfig.ldr (compatibilidad con software nativo GNU/Linux)"
+#    mv $LDRAWHOME/tente/LDCONFIG.LDR $LDRAWHOME/tente/LDConfig.ldr
+#fi
 #LEGO
 if [ ! -d "/usr/share/ldraw" ]; then
     echo ">>> Installing LEGO 3D pieces"
-    wget -c http://download.opensuse.org/repositories/home:/pbartfai/xUbuntu_20.04/amd64/ldraw_2020.02_amd64.deb -O $LDRAWTMP/ldraw.deb
-    sudo dpkg -i $LDRAWTMP/ldraw.deb
-    ln -s /usr/share/ldraw $LDRAWHOME/lego
+    wget -c http://www.ldraw.org/library/updates/complete.zip
+    unzip -xu complete.zip -d $LDRAWHOME
+    mv $LDRAWHOME/ldraw $LDRAWHOME/lego
+    rm -f complete.zip
 fi
 #@TO-DO EXIN CASTILLOS
