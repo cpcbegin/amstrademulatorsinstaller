@@ -76,6 +76,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [Antimicro](https://github.com/AntiMicro/antimicro) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Abbey of crime extensum](http://www.abadiadelcrimenextensum.com/) ![Java binary](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/) ![Pure binary](./resources/images/icons/binary.png)
+- [Horacio esquiador](https://computeremuzone.com/ficha/710/horacio-esquiador) ![Pure binary](./resources/images/icons/binary.png)
 - [LPairs 2](http://lgames.sourceforge.net/LPairs/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [pcManiacs](http://www.sromero.org/wiki/spectrum/proyectos/pcmaziacs) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -87,7 +88,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 
 
 ## Engines with shareware/freeware/gnu data
-- [OpenTyrian](https://github.com/opentyrian/opentyrian) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [OpenTyrian](https://github.com/opentyrian/opentyrian) ![From package](./resources/images/icons/package.png)
 - [Rise of the Triad](https://icculus.org/rott) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [RVGL Re-Volt](https://rvgl.re-volt.io/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [The Legend of Zelda: Mystery of Solarus DX](https://www.solarus-games.org/en/games/the-legend-of-zelda-mystery-of-solarus-dx) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
@@ -110,7 +111,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 ## Educational software
 ### Celestia
 - [Celestia](https://celestia.es/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
-
+- [Linux StopMotion](http://linuxstopmotion.org) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 
 ## Tools for retro

@@ -4,6 +4,6 @@ Type=Application
 Terminal=false
 Exec=/opt/linuxgames/rocksndiamonds/rocksndiamonds
 Path=/opt/linuxgames/rocksndiamonds
-Name=RVGL Re-Volt
+Name=Rocks'n'diamonds
 Icon=rocksndiamonds
 Categories=Game;

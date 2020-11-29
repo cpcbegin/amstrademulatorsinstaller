@@ -1,3 +1,5 @@
+compress compress/uncompress software
+synaptic Synaptic+gdebi installer
 updateos Update system
 updateown Update this script
 Exit Exit this script
