@@ -1,4 +1,6 @@
-hatari: Atari ST emulator
+Hatari: Atari ST emulator
 =========================
 
-You will need TOS boot image to run this emulator.
+You will need TOS boot image to run this emulator in:
+
+/usr/share/hatari/tos.img

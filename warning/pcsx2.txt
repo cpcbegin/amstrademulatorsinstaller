@@ -1,4 +1,9 @@
 pcsx2: Playstation II emulator
 =============================
 
-You will need PlayStation II BIOS files to run this emulator.
+You will need PlayStation II BIOS files to run this emulator in path:
+
+/home/bobu/.config/PCSX2/bios
+
+Los plugins are in
+/usr/lib/i386-linux-gnu/pcsx2
