@@ -128,6 +128,7 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [CPCXFS](http://cpctech.cpc-live.com/download.html). Gestor de imagenes DSK de discos de Amstrad CPC. ![From source](./resources/images/icons/source.png)
 - [NOCart](http://www.cpcwiki.eu/index.php/Nocart): Convert Amstrad DSK images to CPR cartridge images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Pixel Polizei 2020](https://csdb.dk/release/?id=198001) ![Pure java](./resources/images/icons/java.png)
 - [c64tapedecode](https://github.com/lunderhage/c64tapedecode) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [CasTools](https://github.com/lunderhage/c64tapedecode). MSX cas tape images converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 - [Martine](https://github.com/jeromelesaux/martine) ![Pure binary](./resources/images/icons/binary.png) ![Source avalaible](./resources/images/icons/source.png)
