@@ -1,0 +1,6 @@
+CPCXFS installed
+================
+
+Amstrad CPC Disk File System.
+
+Type cpcfs for instructions.

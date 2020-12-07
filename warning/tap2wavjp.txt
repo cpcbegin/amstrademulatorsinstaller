@@ -1,0 +1,5 @@
+Tap2Wav for Sharp X1G installed
+===============================
+
+New command:
+ - tapx1g2wav

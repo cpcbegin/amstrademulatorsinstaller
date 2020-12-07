@@ -1,0 +1,12 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+    <Name>Applications</Name>
+    <Menu>
+        <Name>Tente 3D</Name>
+        <Directory>tente3d.directory</Directory>
+        <Include>
+            <Filename>leocadlego.desktop</Filename>
+        </Include>
+    </Menu>
+</Menu>

@@ -1,0 +1,6 @@
+Martine: PC image converter to Amstrad CPC
+==========================================
+
+Just type in console:
+
+martine

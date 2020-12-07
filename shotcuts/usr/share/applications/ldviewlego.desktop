@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/ldraw/software/linuxscripts/ldviewlego.sh
+Name=LDView Lego
+Comment=Lego 3D viewer
+Comment[es]=Visor Lego 3D
+Icon=ldviewlego
+Categories=Tente3D;Graphics;3DGraphics;RasterGraphics

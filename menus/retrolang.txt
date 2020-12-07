@@ -1,0 +1,7 @@
+BBCBasic BBC Basic Interpreter
+QB64 Basic compiler compatible with QB4.5/QBasic
+ZXBasic ZX Spectrum Basic compiler
+P65Pas Pascal cross-compilet for 6502 CPU
+UCBLogo Berkeley Logo freeware interpreter
+KTurtle KDE Logo interpreter
+Exit Return to Main Menu

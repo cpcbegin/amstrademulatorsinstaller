@@ -11,12 +11,14 @@ if [ -n "$1" ]; then
     sudo mkdir -p /etc/xdg/menus/applications-merged
     sudo cp -f "../shotcuts/etc/xdg/menus/applications-merged/$1.menu" /etc/xdg/menus/applications-merged/
     sudo cp -f "../shotcuts/usr/share/pixmaps/$1.png" /usr/share/pixmaps/
-    if [ -f "/usr/share/desktop-directories/Emulators.directory" ]; then
-        echo "WARNING: Emulators category exists!"
-    else
-        sudo cp -f ../shotcuts/usr/share/desktop-directories/Emulators.directory /usr/share/desktop-directories/Emulators.directory
-        sudo cp -f ../shotcuts/usr/share/pixmaps/emulators.png /usr/share/pixmaps/
-    fi
+    for category in emulators tente3d; do
+        if [ -f "/usr/share/desktop-directories/$category.directory" ]; then
+            echo "WARNING: $category category exists!"
+        else
+            sudo cp -f ../shotcuts/usr/share/desktop-directories/$category.directory /usr/share/desktop-directories/$category.directory
+            sudo cp -f ../shotcuts/usr/share/pixmaps/$category.png /usr/share/pixmaps/
+        fi
+    done
 else
     echo "ERROR: No parameters found."
 fi

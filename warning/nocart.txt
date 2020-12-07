@@ -1,0 +1,6 @@
+New command: nocart
+===================
+
+Example:
+
+  nocart disk.dsk cart.cpr -c 'RUN"disc'

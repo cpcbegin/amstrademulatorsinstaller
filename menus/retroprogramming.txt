@@ -1,3 +1,0 @@
-CPCTelera Amstrad CPC programming suite
-CPCTools Amstrad CPC programming tools
-Exit Return to Main Menu

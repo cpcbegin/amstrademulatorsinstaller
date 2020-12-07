@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=UCB Logo (Berkeley interpreter)
+GenericName=UCB Logo (Berkeley interpreter)
+GenericName[es]=UCB Logo (intérprete de la U.Berkeley)
+Comment=Berkeley LOGO interpreter
+Comment[es]=Intérprete LOGO de la U.Berkeley
+Icon=ucblogo
+Exec=ucblogo
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;
+Name[es_ES]=ucblogo

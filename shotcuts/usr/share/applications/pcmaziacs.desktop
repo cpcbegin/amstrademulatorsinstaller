@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=pcMaziacs
+Comment=Enhaced remake of ZX Spectrum pcMaziacs
+Comment[es]=Remake mejorado del juego de ZX Spectrum
+Icon=pcmaziacs
+Exec=/opt/linuxgames/pcmaziacs/pcmaziacs
+Path=/opt/linuxgames/pcmaziacs
+Terminal=false
+Categories=Game;

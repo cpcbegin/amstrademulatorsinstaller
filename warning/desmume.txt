@@ -1,0 +1,4 @@
+DesMume: Nintendo DS emulator
+=============================
+
+You will need Nintendo DS ROM to run this emulator.

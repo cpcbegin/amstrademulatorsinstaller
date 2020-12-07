@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=KTurtle (Logo interpreter)
+GenericName=KTurtle (Logo interpreter)
+GenericName[es]=KTurtle (intérprete LOGO)
+Comment=KDE LOGO interpreter
+Comment[es]=Intérprete LOGO de KDE
+Icon=kturtle
+Exec=kturtle
+Terminal=false
+Categories=Application;X-Debian-Applications-Emulators;
+Name[es_ES]=kturtle

@@ -1,7 +1,7 @@
 #/bin/bash
 #CPCEC Emulator
-sudo apt install -y build-essential libsdl1.2-dev gcc
-cd installers
+source ../commonscripts/makeopenchangetodir.sh /opt/linuxemus
+sudo apt install -y build-essential libsdl1.2-dev gcc wget
 mkdir cpcec
 cd cpcec
 wget -c http://cngsoft.no-ip.org/cpcec-20201028.zip
@@ -13,5 +13,5 @@ echo "** Compiling zxsec, please wait... ***"
 gcc -DSDL2 -O2 -xc zxsec.c -lSDL2 -ozxsec.sh
 chmod +x *.sh
 cd ..
-../commonscripts/createshortcuts.sh cpcec /opt/linuxemus
+../commonscripts/createshortcuts.sh cpcec
 ../commonscripts/createshortcuts.sh zxsec

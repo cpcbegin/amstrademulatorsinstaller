@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Osmose Emulator
+Comment=Sega Master System/Game Gear Console Emulator
+Exec=osmose-emulator
+Keywords=emulator;console;games;rom;sega;master system;game gear;
+Terminal=false
+Type=Application
+Icon=osmose-emulator
+Categories=Emulator;
+Name[es_ES]=Osmose

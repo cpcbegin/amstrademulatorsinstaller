@@ -1,0 +1,9 @@
+XRoar: Tandy CoCo & Drangon computers emulator
+==============================================
+
+INSTALLED, You must copy the BIOS of these computers in:
+
+/opt/linuxemus/xroarcoco
+/opt/linuxemus/xroardragon
+
+BIOS files must NOT be in subdirectories.

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Temptations
+Comment=Temptations remake from MSX
+Icon=/opt/linuxgames/temptations/src/temptations.ico
+Exec=/opt/linuxgames/temptations/bin/temptations
+Path=/opt/linuxgames/temptations/bin
+Terminal=false
+Categories=Game;

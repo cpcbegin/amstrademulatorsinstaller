@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/ldraw/software/ldcad/LDCad64
+Path=/opt/ldraw/software/ldcad
+Name=LDCad
+Comment=LDraw editor
+Comment[es_ES]=Editor LDraw de modelos LEGO
+Icon=ldcad

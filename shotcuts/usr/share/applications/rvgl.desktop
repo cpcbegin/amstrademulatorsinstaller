@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/linuxgames/rvgl/rvgl
+Path=/opt/linuxgames/rvgl
+Name=RVGL Re-Volt
+Icon=rvgl
+Categories=Game;

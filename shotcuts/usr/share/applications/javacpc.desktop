@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=JavaCPC
+Comment=Amstrad CPC emulator in java
+Comment[es]=Emulador de Amstrad CPC en java
+Icon=javacpc
+Exec=java -jar /opt/javaemus/javacpc/JavaCPC.jar
+Path=/opt/javaemus/javacpc
+Terminal=false

@@ -1,0 +1,3 @@
+Now you have two new commands:
+ansicpm ------> the CP/M emulator
+ansicpmtool --> tools for the CP/M emulator

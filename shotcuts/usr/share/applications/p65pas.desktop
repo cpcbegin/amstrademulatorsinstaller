@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=P65Pas
+Comment=Pascal cross-compiler for 6502 CPU
+Icon=p65pas
+Exec=/opt/linuxemus/p65pas/P65Pas-linux
+Path=/opt/linuxemus/p65pas/
+Terminal=false

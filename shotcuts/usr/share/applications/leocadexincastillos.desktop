@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=leocad -l /opt/ldraw/exincastillos/
+Name=LeoCAD Exin Castillos
+Comment=Exin Castillos 3D editor
+Comment[es]=Editor Exin Castillos 3D
+Icon=leocadexincastillos

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/ldraw/software/linuxscripts/ldviewexincastillos.sh
+Name=LDView Exin Castillos
+Comment=Exin Castillos 3D viewer
+Comment[es]=Visor Exin Castillos 3D
+Icon=ldviewexincastillos
+Categories=Tente3D;Graphics;3DGraphics;RasterGraphics

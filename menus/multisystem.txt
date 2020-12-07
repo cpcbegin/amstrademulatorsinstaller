@@ -1,4 +1,4 @@
-CPCEC CPCEC ZXEC emulators
+CPCEC CPCEC ZXCEC emulators
 PCEm Multiple PC emulator
 RetroVirtualMachine Retro Virtual Machine
 ZEsarUX ZEsarUX multi emulator

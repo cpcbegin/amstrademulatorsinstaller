@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/linuxgames/smkclone/super_mario_kart
+Path=/opt/linuxgames/smkclone
+Name=Süper Mario Kart clone
+Icon=/opt/linuxgames/smkclone/assets/icon.ico
+Categories=Game;

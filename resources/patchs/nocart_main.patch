@@ -1,0 +1,47 @@
+--- main.cpp	2020-11-18 23:12:09.404300810 +0100
++++ main_old	2020-11-18 23:09:12.563994980 +0100
+@@ -63,7 +63,7 @@
+ 	unsigned char Filler;
+ 	unsigned char N;
+ 	unsigned char RecordsPerSector;
+-} Xpdb;
++} XPDB;
+ #pragma pack()
+ 
+ 
+@@ -73,7 +73,7 @@
+ 	int SectorIDMin;
+ 	int MaxTracks;
+ 	int SPT;
+-	Xpdb XPDB;
++	XPDB XPDB;
+ } SupportedFormat;
+ 
+ const SupportedFormat SupportedFormats[1]=
+@@ -930,7 +930,7 @@
+ 								fseek(fhBinary, 0, SEEK_END);
+ 								BinaryFileLength = ftell(fhBinary);
+ 								fseek(fhBinary, 0, SEEK_SET);
+-								printf("Using Binary File '%s' length %ld\n", pBinaryFilename, BinaryFileLength);
++								printf("Using Binary File '%s' length %d\n", pBinaryFilename, BinaryFileLength);
+ 							}
+ 						}
+ 
+@@ -1004,7 +1004,7 @@
+ 								{
+ 									fseek(fhOut, currentPosition, SEEK_SET);
+ 									fseek(fhOut, -16384 + SYSTEM_XPDB_OFFSET, SEEK_CUR);
+-									fwrite(&SupportedFormats[ChosenExtendedFormat].XPDB, sizeof(Xpdb), 1, fhOut);
++									fwrite(&SupportedFormats[ChosenExtendedFormat].XPDB, sizeof(XPDB), 1, fhOut);
+ 								}
+ 
+ 								/* write sector id to support data or system */
+@@ -1088,7 +1088,7 @@
+ 						// report if binary file is too long
+ 						if (fhBinary && BinaryFileLength != 0)
+ 						{
+-							fprintf(stderr, "Binary file is too large to write to cartridge. %ld bytes remaining\n", BinaryFileLength);
++							fprintf(stderr, "Binary file is too large to write to cartridge. %d bytes remaining\n", BinaryFileLength);
+ 							nResultCode = 1;
+ 						}
+ 

@@ -1,0 +1,10 @@
+PCSXR: Playstation emulator
+===========================
+
+IMPORTANT: To run this emulator you must follow these steps:
+1. Open Configuracion > Configure PCSXR
+2. Change 'Search in' directory to plugins ($HOME/pcscr/plugins)
+3. Select each plug, you will have only an option in each one.
+
+This emulator have a simulated BIOS but runs better with original ones.
+Put your PSX BIOS in $HOME/.pcsxr/bios/

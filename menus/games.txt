@@ -1,0 +1,17 @@
+Antimicro Virtual gamepad mapped to keyboard
+RVGL Remote control cars game
+AbbeyExt The Abbey of Crime Extensum
+UWOL Amazing platform game
+SMKClone Super Mario Kart clone
+Vorton A Highway Encounter Remake
+ZeldaSolarus The Legend of Zelda(Solarus)
+AbuSimbel Abu Simbel Profanation DeLuxe Remake
+Minetest Minetest with Mineclone
+StepMania Dance pads game
+Temptations Remake PC from MSX version
+OpenTyrian Native Tyrian Engine
+ROTT Rise of the Triad Engine
+RocksNDiamonds Boulder Dash clone
+LPairs Pairs game (with TENTE cards)
+pcMaziacs Remake PC from ZX Spectrum version
+Exit Exit this script

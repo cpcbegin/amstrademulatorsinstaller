@@ -1,0 +1,5 @@
+PCEM: Classic PC emulator
+=========================
+
+You'll need rom of your old PC and an boot disk 
+or HD image to use this emulator.

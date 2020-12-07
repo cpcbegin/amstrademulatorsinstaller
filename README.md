@@ -1,40 +1,187 @@
-# Retro computers emulator installer
+# Multi retro utils installer
 Script to install more common retro computers emulators and tools in GNU/Linux (Debian/Ubuntu family distros).
+There will be a full operative shortcut in menu for each graphic software you install.
+
+> ADVICE: THIS SCRIPT DOESN'T INCLUDE ANY ILLEGAL ROM, BIOS OR ANY QUESTIONABLE SOFTWARE.
+
+![Emulator category in GNU/Linux](./resources/images/menu.png)
+You can see the menus on English or Spanish depending of your locale configuration.
+
+
 
 ## Emulators included
 ### Amstrad
-- [Arnold (by Rofl0r)](https://github.com/rofl0r/arnold).
-- [Caprice 32 (by Colin Pitrat)](https://github.com/ColinPitrat/caprice32).
-- [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm).
-- [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce).
-- [PCEM](https://pcem-emulator.co.uk).
-- [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/).
-- [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux).
+- [Arnold (by Rofl0r)](https://github.com/rofl0r/arnold). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Caprice 32 (by Colin Pitrat)](https://github.com/ColinPitrat/caprice32). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CPCEC (by CNG Soft)](http://cngsoft.no-ip.org/cpcec.htm). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Java CPC emulator](http://cpc-live.com/data/). ![Pure java](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Joyce PCW/Anne emulator (by John Elliott)](http://www.seasip.info/Unix/Joyce). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [WinAPE](http://www.winape.net/) ![Runs with wine](./resources/images/icons/wine.png)
+
+### Atari ST
+- [Hatari](https://hatari.tuxfamily.org/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+### Apple
+- [BasiliskII](https://basilisk.cebix.net/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [LinApple](https://github.com/linappleii/linapple) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
 
 ### Commodore
-- [VICE](http://vice-emu.sourceforge.net/)
+- [FS UAE](https://fs-uae.net) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [VICE](http://vice-emu.sourceforge.net/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
 
 ### MSX
-- [OpenMSX](https://openmsx.org/)
+- [OpenMSX](https://openmsx.org/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
 
 ### ZX Spectrum
-- [FBZX](https://rastersoft.com/programas/fbzx.html)
-- [FUSE](http://fuse-emulator.sourceforge.net/)
-- [XSPECT](https://github.com/radekp/spectemu/blob/master/README)
+- [FBZX](https://rastersoft.com/programas/fbzx.html) ![From package](./resources/images/icons/package.png)
+- [FUSE](http://fuse-emulator.sourceforge.net/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [XSPECT](https://github.com/radekp/spectemu/blob/master/README) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
-## Tools
-### Amstrad
-- [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera).
-- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools).
+
+### Other 8-bits computers
+- [XRoar](https://www.6809.org.uk/xroar/): Tandy CoCo & Dragon computers emulator. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+### Arcade
+- [MAME](https://mame.net) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+### Consoles
+- [DesmuME](http://desmume.org/): Nintendo DS. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Osmose](https://segaretro.org/Osmose) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [PCSXR](https://github.com/iCatButler/pcsxr): Playstation ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [PCSX2](https://pcsx2.net/): Playstation II ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Stella](https://stella-emu.github.io/): Atari 2600 ![From package](./resources/images/icons/package.png)
+- [ZSNES](http://www.zsnes.com/): SNES ![From package](./resources/images/icons/package.png)
+
+
+### Several systems
+- [Higan](https://byuu.org/higan/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Mednafen](https://mednafen.github.io/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [PCEM](https://pcem-emulator.co.uk). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Retro Virtual Machine (by Juan Carlos González Amestoy)](https://www.retrovirtualmachine.org/). ![From package](./resources/images/icons/package.png)
+- [Zesarux (by Ceśar Hernández Bañó)](https://github.com/chernandezba/zesarux). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+### Just OS emulators
+- [Dosbox](https://www.dosbox.com/) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [WINE](https://www.winehq.org/) ![From package](./resources/images/icons/package.png)
+- [ANSI CP/M](https://github.com/z88dk/cpm) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [IZ CP/M](https://github.com/ivanizag/iz-cpm) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+
+## Games
+### Full natives
+- [Antimicro](https://github.com/AntiMicro/antimicro) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Abbey of crime extensum](http://www.abadiadelcrimenextensum.com/) ![Java binary](./resources/images/icons/java.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Abu Simbel Profanation DeLuxe](https://computeremuzone.com/ficha/598/) ![Pure binary](./resources/images/icons/binary.png)
+- [Horacio esquiador](https://computeremuzone.com/ficha/710/horacio-esquiador) ![Pure binary](./resources/images/icons/binary.png)
+- [LPairs 2](http://lgames.sourceforge.net/LPairs/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Minetest](https://www.minetest.net/) with [Mineclone 2](https://malagaoriginal.blogspot.com/2019/03/minetest-con-mineclone-2-en-gnulinux-y.html) included. ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [pcManiacs](http://www.sromero.org/wiki/spectrum/proyectos/pcmaziacs) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Rocks'n'Diamonds](https://www.artsoft.org/rocksndiamonds/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Step Mania](https://www.stepmania.com/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Temptations](https://github.com/pipagerardo/temptations) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [UWOL](https://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Vorton, a Highway Encounter remake](https://github.com/zerojay/vorton) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+## Engines with shareware/freeware/gnu data
+- [OpenTyrian](https://github.com/opentyrian/opentyrian) ![From package](./resources/images/icons/package.png)
+- [Rise of the Triad](https://icculus.org/rott) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [RVGL Re-Volt](https://rvgl.re-volt.io/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [The Legend of Zelda: Mystery of Solarus DX](https://www.solarus-games.org/en/games/the-legend-of-zelda-mystery-of-solarus-dx) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+## TENTE 3D
+- [MLCad](http://mlcad.lm-software.com/) ![Runs with wine](./resources/images/icons/wine.png)
+- [LDView](http://ldview.sourceforge.net/) ![From source](./resources/images/icons/source.png)
+- [Blender](http://www.blender.org) + [Ldraw import addon](https://github.com/TobyLobster/ImportLDraw/releases) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [BMP2LDraw](https://www.dropbox.com/s/a82giwfiof15ld5/bmp2ldraw.zip?dl=1) ![Runs with wine](./resources/images/icons/wine.png)
+- [LDDesignPad](https://sourceforge.net/projects/lddp) ![Runs with wine](./resources/images/icons/wine.png)
+- [LD4Studio](http://www.ld4dstudio.nl) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [LDCad](http://www.melkert.net/LDCad) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [LeoCad](https://github.com/leozide/leocad) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+[TENTE 3D](https://www.dropbox.com/s/irba95qphdxtiq7/LDrawTente_Ultima.zip?dl=0) y [LEGO 3D](http://www.ldraw.org) supported.
+
+
+
+## Educational software
+### Celestia
+- [Celestia](https://celestia.es/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Linux StopMotion](http://linuxstopmotion.org) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+
+## Tools for retro
+### Programming
+- [CPCTelera (by L.Ronaldo)](https://github.com/lronaldo/cpctelera). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Pasmo Z80 Cross Assembler](http://pasmo.speccy.org/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [SDCC - Small Device C Compiler](http://sdcc.sourceforge.net/). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Z88DK - The Development Kit for Z80 Computers](https://github.com/z88dk/z88dk). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+### tools
+- [ConvImgCPC](https://cpcrulez.fr/emulateurs_UTIL-GRA-convimgcpc.htm) ![Runs with wine](./resources/images/icons/wine.png)
+- [CPCDiskXP](http://www.cpcmania.com/cpcdiskxp/cpcdiskxp.htm) ![Runs with wine](./resources/images/icons/wine.png)
+- [CPCTools (by Ralferoo)](https://github.com/ralferoo/cpctools). ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CPCXFS](http://cpctech.cpc-live.com/download.html). Gestor de imagenes DSK de discos de Amstrad CPC. ![From source](./resources/images/icons/source.png)
+- [NOCart](http://www.cpcwiki.eu/index.php/Nocart): Convert Amstrad DSK images to CPR cartridge images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Pixel Polizei 2020](https://csdb.dk/release/?id=198001) ![Pure java](./resources/images/icons/java.png)
+- [c64tapedecode](https://github.com/lunderhage/c64tapedecode) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [CasTools](https://github.com/lunderhage/c64tapedecode). MSX cas tape images converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Martine](https://github.com/jeromelesaux/martine) ![Pure binary](./resources/images/icons/binary.png) ![Source avalaible](./resources/images/icons/source.png)
+- [TZX Tools](https://github.com/shred/tzxtools). Gestor de imagenes de cintas de ZX Spectrum (TZX) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [Ubercassette](http://www.retroreview.com/iang/UberCassette/). Several 8 bit systems tape converter. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [tap2wav mtfuji](https://github.com/mtfuji/tap2wav). Manage Sharp X1G tape images. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+### Retro Languages
+- [BBC Basic](https://github.com/rtrussell/BBCSDL). ![From source](./resources/images/icons/source.png)
+- [QB64](http://www.qb64.net/). ![From source](./resources/images/icons/source.png)
+- [ZX Basic](https://zxbasic.readthedocs.io) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [P65Pas](https://github.com/t-edson/P65Pas) ![Pure binary](./resources/images/icons/binary.png) ![From source](./resources/images/icons/source.png)
+- [KTurtle Logo](https://edu.kde.org/kturtle/) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+- [UCB Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html) ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
+#### Legend
+![From source](./resources/images/icons/source.png) Compiled from source code.
+
+![From package](./resources/images/icons/package.png) Deb package.
+
+![Pure binary](./resources/images/icons/binary.png) Pure binary with no source code.
+
+![Pure java binary](./resources/images/icons/java.png) Pure java binary with no source code.
+
+![Run with wine](./resources/images/icons/wine.png) Windows software compatible with GNU/Linux using wine.
+
+![Raspbian compatible](./resources/images/icons/raspbian.png) Raspberry pi compatible.
+
 
 
 ## How to use
 Just type ./retroinstaller.sh and select the desired emulator or tool.
 
-![Emulator category in GNU/Linux](https://raw.githubusercontent.com/cpcbegin/amstrademulatorsinstaller/master/resources/images/menu.png)
+![Emulator category in GNU/Linux](./resources/images/mainmenu.png)
+
+
+
+## How to modify
+* Own installations script: add your script with a name like *yourscriptkey_installer.sh* in installer folders.
+* Menu items: You can add this scripts in the menu using **.menus* files in menu director, first add the yourscriptkey as a word  without spaces, then an space and finally the description than can't contain real spaces only hard spaces.
+* Shotcuts: you need to add these files:
+   * shotcuts/etc/xdg/menus/applications-merged/yourscriptkey.menu
+   * shotcuts/usr/share/applications/yourscriptkey.desktop
+   * shotcuts/usr/share/pixmaps/yourscriptkey.png
+* Temporal dir to save code and other elements: opt
+
 
 
 ## About
 For more details see my blogs:
+
 - [Selections of M.O.L](https://malagaoriginalenglish.blogspot.com/) (a selection of articles on English).
 - [Malagueños Originales y Libres](https://malagaoriginal.blogspot.com) (on Spanish, more complete).

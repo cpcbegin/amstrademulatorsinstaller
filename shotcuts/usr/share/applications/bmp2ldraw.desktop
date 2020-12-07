@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=wine /opt/ldraw/software/bmp2ldraw/bmp2ldraw32.exe
+Name=BMP2Ldraw
+Comment=Convert labels to LDraw parts
+Comment[es]=Convierte pegatinas a fichas LDraw
+Icon=bmp2ldraw
