@@ -4,6 +4,7 @@ Atari Atari computers & consoles
 Commodore Commodore computers
 MSX MSX computers
 ZXSpectrum ZX Spectrum
+Rare8bits Other 8-bit computers
 Consoles Consoles & Arcades
 Multisystem Several systems
 OS Just operating systems

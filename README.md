@@ -42,6 +42,9 @@ You can see the menus on English or Spanish depending of your locale configurati
 - [XSPECT](https://github.com/radekp/spectemu/blob/master/README) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 
 
+### Other 8-bits computers
+- [XRoar](https://www.6809.org.uk/xroar/): Tandy CoCo & Dragon computers emulator. ![From source](./resources/images/icons/source.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
+
 ### Arcade
 - [MAME](https://mame.net) ![From package](./resources/images/icons/package.png) ![Raspian compatible](./resources/images/icons/raspbian.png)
 

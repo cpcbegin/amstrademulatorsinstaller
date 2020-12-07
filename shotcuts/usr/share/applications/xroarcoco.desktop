@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=X-Roar (Tandy CoCo)
+Comment=Tandy CoCo emulator
+Exec=xroar
+Path=/opt/linuxemus/xroar/coco
+Keywords=emulator;
+Terminal=false
+Type=Application
+Icon=xroarcoco
+Categories=Emulator;

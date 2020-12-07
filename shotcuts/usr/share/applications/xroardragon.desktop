@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=X-Roar (Dragon 32)
+Comment=Dragon 32 emulator
+Exec=xroar
+Path=/opt/linuxemus/xroar/dragon
+Icon=xroarcoco
